@@ -12,11 +12,11 @@ This repository contains a pathfinding visualizer implemented in C# using the Wi
 # Screenshots
 
 <div align="center" style="display: flex; justify-content: center; items-align:center; flex-wrap: wrap; gap: 2em">
+  <img src="./Static/PV-Screenshot-1.PNG" width="30%" />
   <img src="./Static/PV-Screenshot-2.PNG" width="30%" />
   <img src="./Static/PV-Screenshot-3.PNG" width="30%" />
   <img src="./Static/PV-Screenshot-4.PNG" width="30%" />
   <img src="./Static/PV-AStar.jpeg" width="30%" />
-  <img src="./Static/Klassenstruktur.PNG" width="30%" />
 </div >
 
 # Features
