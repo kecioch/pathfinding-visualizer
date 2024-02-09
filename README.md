@@ -11,7 +11,7 @@ This repository contains a pathfinding visualizer implemented in C# using the Wi
 
 # Screenshots
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2em">
+<div align="center" style="display: flex; justify-content: center; items-align:center; flex-wrap: wrap; gap: 2em">
   <img src="./Static/PV-Screenshot-2.PNG" width="30%" />
   <img src="./Static/PV-Screenshot-3.PNG" width="30%" />
   <img src="./Static/PV-Screenshot-4.PNG" width="30%" />
@@ -55,5 +55,5 @@ $ git clone https://github.com/kecioch/pathfinding-visualizer
 
 # Technologies
 
-- [C#](https://www.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [C#](<https://www.wikipedia.org/wiki/C_Sharp_(programming_language)>)
 - [Windows Forms](https://www.wikipedia.org/wiki/Windows_Forms)
