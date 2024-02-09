@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Pathfinding_Visualizer</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <SignAssembly>false</SignAssembly>
+    <Authors>Kevin Cioch</Authors>
+    <PackageIcon>Icon-PV-128-128.png</PackageIcon>
+    <PackageIconUrl />
+    <ApplicationIcon>Icon-PV-128-128.ico</ApplicationIcon>
+    <Copyright>Kevin Cioch</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Icons\Icon-PV-128-128.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
