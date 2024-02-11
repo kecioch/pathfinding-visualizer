@@ -7,7 +7,7 @@
   <img src="./Static/PV-Screenshot-1.PNG" />
 </p>
 
-This repository contains a pathfinding visualizer implemented in C# using the WinForms framework within Visual Studio. The application serves as an interactive tool for visualizing various pathfinding algorithms, allowing users to understand and observe how algorithms navigate through different mazes and obstacles.
+This is a pathfinding visualizer implemented in C# using the WinForms framework within Visual Studio. The application serves as an interactive tool for visualizing various pathfinding algorithms, allowing users to understand and observe how algorithms navigate through different mazes and obstacles.
 
 # Screenshots
 
